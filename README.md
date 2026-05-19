@@ -7,7 +7,7 @@ You can change the list of verbs that it uses, so here is a more honest list of 
 
 
 ## How to Add Verbs
-You can copy the verbs from [settings.json]{settings.json} into your settings.json
+You can copy the verbs from [settings.json](settings.json) into your settings.json
 
 Just take the 'spinnerVerbs' section (the entire thing is inside of a '{' and '}' so it's a complete settings.json on it's own.
 
